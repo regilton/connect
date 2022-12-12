@@ -47,6 +47,7 @@ $texto_lista_left_1 = file_get_contents($url.'texto_lista_left_1.txt', FILE_USE_
 $icon_lista_left_2 = 'far fa-file-alt';
 $titulo_lista_left_2 = 'Planejamento Controle e Visão';
 $texto_lista_left_2 = file_get_contents($url.'texto_lista_left_2.txt', FILE_USE_INCLUDE_PATH);
+// not
 
 $icon_lista_left_3 = 'fas fa-store-alt';
 $titulo_lista_left_3 = 'Loja Própria, Gestão de Clientes e Serviços';
