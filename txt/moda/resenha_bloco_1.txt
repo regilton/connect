@@ -1,0 +1,2 @@
+<p class="lead">Nossos sistemas para varejo de moda foram desenvolvidos considerando as atividades particulares do setor. Seja loja de roupas, calçados ou  acessórios) pequena, média ou grande – oferecemos a tecnologia ideal para aumento das vendas e fidelização dos clientes.</p>
+          <p class="lead"> Controle administrativo financeiro, gestão do estoque, PDV – incluindo controle de grade, reposição de produtos, painéis de indicadores e muito mais.</p>

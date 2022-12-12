@@ -1,0 +1,2 @@
+<p class="lead">Nosso sistema para restaurantes e bares é ideal para quem quer crescer sem abrir mão da qualidade no atendimento aos clientes.</p>
+<p class="lead"> Com a nossa tecnologia você terá o controle de ponta a ponta do backoffice, com toda a gestão administrativa e visão de indicadores; até o PDV, com agilidade na emissão de pedidos e dados em tempo real para acompanhamento do caixa à cozinha. Garantindo redução de erros, menos fila de espera, atendimento de qualidade e cada vez mais clientes.</p>

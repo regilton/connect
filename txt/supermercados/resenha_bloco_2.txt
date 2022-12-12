@@ -1,0 +1,3 @@
+<p class="lead">Com os nossos <strong>sistemas para supermercados</strong> você terá uma gestão mais eficiente desde o <strong>backoffice</strong>, com todo o controle administrativo, financeiro e automatização da retaguarda; até o PDV, com a gestão de <strong>frente de caixa</strong>, papa-filas, self-payment, self-checkout e muito mais.</p>
+
+          <p class="lead">Além disso, você também pode contar com o sistema de <strong>WMS</strong> para uma gestão de armazenagem mais precisa, dando fim nas <strong>rupturas de estoque</strong>; e com uma <strong>plataforma omnichannel</strong> para proporcionar ao seu consumidor uma experiência mais moderna e digital. E não pára por aí!</p>

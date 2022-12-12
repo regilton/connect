@@ -1,0 +1,1 @@
+Otimização de logística, validação de NF-e com pedidos, recebimento e conferência de produtos, reposição de produtos, gestão de perdas, custos de transporte e parceiros.

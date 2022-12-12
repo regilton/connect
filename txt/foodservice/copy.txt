@@ -1,0 +1,1 @@
+Sistema para <span class='danger'>food service</span> que necessita fazer venda balcão, no peso ou através de fichas de consumo (comandas).

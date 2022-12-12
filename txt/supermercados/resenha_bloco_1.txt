@@ -1,0 +1,2 @@
+<p class="lead">Nossas tecnologias para o setor supermercadista são desenvolvidas por equipes especialistas no segmento, que convivem diariamente com mais de 400 clientes, entre minimercados e grandes redes, acompanhando de perto os desafios e evoluções do setor.</p>
+          <p class="lead"> É assim que conseguimos atender de ponta a ponta as operações de um pequeno mercado, um empório, uma grande loja ou até mesmo uma rede de lojas.</p>

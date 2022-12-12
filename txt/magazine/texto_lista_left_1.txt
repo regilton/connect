@@ -1,0 +1,5 @@
+Gestão de produtos, acompanhamento de compras, controle de estoque e estoque virtual, gestão de perdas, de margem e remarcações de preços.
+
+<!-- 
+, formulação de preços, compra de matéria-prima e gerenciamento de vendas, margens, custos da produção, qualidade e terceiros.
+-->

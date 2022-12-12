@@ -1,0 +1,1 @@
+App de comunicação e gestão de indicadores de vendas, que oferece visibilidade da performance de vendas atualizada em tempo real.

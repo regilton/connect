@@ -1,0 +1,1 @@
+Sistemas para <span class='green'>supermercados e mercadinhos</span> que integram seu frente de loja com financeiro, compras e estoque.

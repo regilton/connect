@@ -1,0 +1,2 @@
+<p class="lead">Nosso sistema controla desde a operação de backoffice, passando pela gestão de mercadorias até a frente de caixa, garantindo uma experiência sem atritos para o cliente.</p>
+          <p class="lead"> O sistema permite o gerenciamento de um amplo mix de produtos em diversos PDVs, evitando ruptura de estoque e mantendo  margem saudáveis.</p>
